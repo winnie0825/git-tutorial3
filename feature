@@ -1,3 +1,3 @@
-conflict 1
+feature2
 
 hello  this is my own commit
