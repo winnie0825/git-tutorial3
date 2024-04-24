@@ -1,3 +1,3 @@
-commit 3
+conflict 2
 
 hello  this is my own commit
